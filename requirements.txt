@@ -1,0 +1,10 @@
+certifi==2019.11.28
+chardet==3.0.4
+idna==2.9
+parse==1.14.0
+requests==2.23.0
+urllib3==1.25.8
+tqdm
+bs4
+http.client
+
