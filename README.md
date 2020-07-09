@@ -1,4 +1,4 @@
-# Scan Proxy
+# Scan Proxy di termux
 - Tools Scan Proxy
 ### Note
 - **Password:** `Tanggal Di Hp Kalian Dan Ditambahkan 00 Dibelakangnya`
@@ -14,7 +14,7 @@ apt install git
 pip2 install http.client
 pip2 install requests
 ```
-- **Jika Sudah,Jalankan Kode Berikut Untuk Menjalankan Tools `UNIV`**
+- **Jika Sudah,Jalankan Kode Berikut Untuk Menjalankan Tools `ScanProxy`**
 ```
 git clone https://github.com/sulaimanx/scanproxytermux
 cd scanproxytermux
